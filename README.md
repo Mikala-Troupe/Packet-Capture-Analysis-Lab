@@ -17,3 +17,5 @@ The Packet Capture & Analysis Lab project aimed to establish a controlled enviro
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 
   ## Project Certificate
+  
+![WiresharkCert](https://github.com/Mikala-Troupe/Packet-Capture-w-Wireshark-Lab/assets/145818034/0b04fbac-32da-428d-a9db-efe3b08895dc)
